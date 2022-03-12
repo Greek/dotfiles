@@ -13,7 +13,6 @@ export PATH="$MY_ROOT"/.jiri_root/bin:$PATH
 export MY_ROOT=$HOME/myroot
 export PATH="$SPICETIFY_INSTALL:$PATH"
 export PATH=$PATH:/usr/bin/go/bin
-export PATH=$PATH:~/spicetify-cli
 export PATH=$PATH:/usr/lib/jvm/zulu-17-amd64
 export PATH=$PATH:~/dev/Runtimes/apache-maven-3.8.4/bin
 
