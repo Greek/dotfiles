@@ -1,0 +1,15 @@
+[user]
+	name = Andreas
+	email = andreas@apap04.com
+[core]
+	autocrlf = input
+	filemode = false
+	fscache = false
+[color]
+	ui = true
+[http]
+	cookiefile = /home/andreas/.gitcookies
+[oh-my-zsh]
+	hide-status = 1
+[pull]
+	rebase = true
