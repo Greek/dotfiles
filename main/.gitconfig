@@ -9,7 +9,7 @@
 	ui = true
 [http]
 	cookiefile = /home/andreas/.gitcookies
-# [oh-my-zsh]
-	# hide-status = 1
+[oh-my-zsh]
+	hide-status = 1
 [pull]
 	rebase = true
